@@ -1,10 +1,11 @@
 # Render 3D Simples
-
-![render](https://github.com/user-attachments/assets/e169e939-6926-4db0-b1df-061112577333)
-
 Este é um projeto Java que demonstra uma renderização 3D simples utilizando Swing.
 O aplicativo permite visualizar e interagir com formas 3D (como Cubo, Pirâmide, Retângulo e Prisma),
 possibilitando rotações, zoom, preenchimento de faces com escolha de cor e demarcação das arestas com cor fixa.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e169e939-6926-4db0-b1df-061112577333" alt="render" width="40%">
+</p>
 
 ## Funcionalidades
 
